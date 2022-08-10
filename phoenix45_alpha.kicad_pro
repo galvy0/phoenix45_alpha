@@ -57,7 +57,8 @@
       ],
       "drc_exclusions": [
         "courtyards_overlap|145105001|42076073|4b436686-6d79-4502-bdde-85b08a8ba562|b1a67a94-fc0a-44bc-9f3f-c8c50955245d",
-        "courtyards_overlap|145105001|42076073|b1a67a94-fc0a-44bc-9f3f-c8c50955245d|4b436686-6d79-4502-bdde-85b08a8ba562"
+        "courtyards_overlap|145105001|42076073|b1a67a94-fc0a-44bc-9f3f-c8c50955245d|4b436686-6d79-4502-bdde-85b08a8ba562",
+        "courtyards_overlap|152697963|61432312|92236951-a4bf-4443-90a5-f3affa0339ee|93478050-5abd-4c28-b569-028a31c74fd3"
       ],
       "meta": {
         "filename": "board_design_settings.json",
