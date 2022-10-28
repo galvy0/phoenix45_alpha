@@ -20,7 +20,7 @@ I just bought some replacement T440/T450 keyboards from Ebay and scavanged the T
 Steps (Very rough - I will try to take some photos for better instructions next time I build this):  
 1. Unscrew the casing for the TP module.
 2. Install a TP cover. This can be done later.    
-Depending on the thickness of the cover, you may want to have a washer between the module and the cover so the TP sticks out as little as possible (mainly for aesthetics).  
+Depending on the thickness of the cover, you may want to have hex nuts between the module and the cover so the TP sticks out as little as possible (mainly for aesthetics).  
 3. Desolder all the lines and reconnect them using flexible wires so you can readjust the position of the TP module with the TP PCB.  
 4. Refer to the pinouts from Deskthority to connect the pins on the TP PCB to the keyboard PCB.  
 <img src="https://deskthority.net/wiki/images/5/50/Pinout-2-piece-Trackpoint.png" alt="drawing" width="400"/> 
