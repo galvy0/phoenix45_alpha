@@ -14,8 +14,8 @@ Either case, I provide the files for a cover along with plate option to mount th
 Using the cover would help fill/cover up the space between the plate and the top of the case and make the middle column look more flush with the top of the case (a.k.a it's just for aesthetics).  
 To use the cover, you need M2 screws and standoffs - I find ~6 mm is a good length for the standoffs, though 7 mm also works well and gives enough space for the trackpoint module.  
 
-### OLED
-The only OLED module compatible with this is the two-piece module found in ThinkPad T440/T450/T460/T470/T480, P52s, X240, X250, X260 X270 (according to https://deskthority.net/wiki/TrackPoint_Hardware).  
+### Trackpoint module
+The only TP module compatible with this is the two-piece module found in ThinkPad T440/T450/T460/T470/T480, P52s, X240, X250, X260 X270 (according to https://deskthority.net/wiki/TrackPoint_Hardware).  
 I just bought some replacement T440/T450 keyboards from Ebay and scavanged the TP modules.  
 Steps (Very rough - I will try to take some photos for better instructions next time I build this):  
 1. Unscrew the casing for the TP module.
