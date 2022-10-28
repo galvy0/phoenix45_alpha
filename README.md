@@ -16,6 +16,7 @@ To use the cover, you need M2 screws and standoffs - I find ~6 mm is a good leng
 
 ### OLED
 The only OLED module compatible with this is the two-piece module found in ThinkPad T440/T450/T460/T470/T480, P52s, X240, X250, X260 X270 (according to https://deskthority.net/wiki/TrackPoint_Hardware).  
+I just bought some replacement T440/T450 keyboards from Ebay and scavanged the TP modules.  
 Steps (Very rough - I will try to take some photos for better instructions next time I build this):  
 1. Unscrew the casing for the TP module.
 2. Install a TP cover. This can be done later.    
