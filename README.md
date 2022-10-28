@@ -29,3 +29,6 @@ Depending on the thickness of the cover, you may want to have a washer between t
 6. Install the TP cover to the plate.  
 After all is done, it would look something like this: 
 <img src="https://github.com/galvy0/phoenix45_alpha/blob/main/images/TP_mounted.jpg" alt="drawing" width="400"/>
+
+## QMK Firmware
+https://github.com/galvy0/qmk_firmware/tree/galvy/keyboards/galvy/jd45_alpha
